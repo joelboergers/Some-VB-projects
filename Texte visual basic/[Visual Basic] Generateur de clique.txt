@@ -1,0 +1,8 @@
+Declare Sub mouse_event Lib "user32" Alias "mouse_event" (ByVal dwFlags As Integer, ByVal dx As Integer, ByVal dy As Integer, ByVal cButtons As Integer, ByVal dwExtraInfo As Integer)
+    Public Const MOUSEEVENTF_LEFTDOWN = &H2
+    Public Const MOUSEEVENTF_LEFTUP = &H4
+
+-----------------------------
+
+mouse_event(MOUSEEVENTF_LEFTDOWN, 0, 0, 0, 0) 'Enfonce le bouton de la souris
+mouse_event(MOUSEEVENTF_LEFTUP, 0, 0, 0, 0) ' le relève

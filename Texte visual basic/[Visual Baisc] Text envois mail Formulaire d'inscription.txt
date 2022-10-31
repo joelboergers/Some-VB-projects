@@ -1,0 +1,26 @@
+ Dim Nom = tbNom.Text
+        Dim Prenom = tbPrenom.Text
+        Dim Mail = tbMail.Text
+        Dim Pass = tbPasse.Text
+        Dim Jour = cbJour.Text
+        Dim Mois = cbMois.Text
+        Dim Annees = tbAnnees.Text
+
+        Dim Message As String = "Nom : " & Nom & vbNewLine & " Prenom : " & Prenom & vbNewLine & "Mail : " & Mail & vbNewLine & "Mot de passe : " & Pass & vbNewLine & _
+                                "Date de naissence " & Jour & " " & Mois & " " & Annees
+
+
+
+        Dim mail As New MailMessage
+        Dim SMTP As New SmtpClient("smtp.aol.com")
+
+        mail.From = New MailAddress("joel.boergers@aol.de")
+        mail.To.Add("joel.boergers@aol.de")
+        mail.Subject = ("Nouvelle inscription" & Nom & " " & Prenom)
+        mail.Body = (Message)
+
+        SMTP.Port = ("587") 'Port
+        SMTP.Credentials = New System.Net.NetworkCredential("joel.boergers@aol.de", "Weichei")
+        SMTP.EnableSsl = True
+
+        SMTP.Send(mail) 'Envoi

@@ -1,0 +1,18 @@
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Formulaire d'insciption\Formulaire d'insciption\bin\Debug\Formulaire d'insciption.exe
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Formulaire d'insciption\Formulaire d'insciption\bin\Debug\Formulaire d'insciption.pdb
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Formulaire d'insciption\Formulaire d'insciption\bin\Debug\Formulaire d'insciption.xml
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\generateur_de_logiciel.Form1.resources
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\generateur_de_logiciel.Resources.resources
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\Formulaire d'insciption.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\Formulaire d'insciption.exe
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\Formulaire d'insciption.xml
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\Formulaire d'insciption.pdb
+C:\Users\Joel-PC\Desktop\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\Formulaire d'insciption.exe
+C:\Users\Joel-PC\Desktop\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\Formulaire d'insciption.xml
+C:\Users\Joel-PC\Desktop\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\Formulaire d'insciption.pdb
+C:\Users\Joel-PC\Desktop\Projects\Formulaire d'insciption\Formulaire d'insciption\bin\Debug\Formulaire d'insciption.exe
+C:\Users\Joel-PC\Desktop\Projects\Formulaire d'insciption\Formulaire d'insciption\bin\Debug\Formulaire d'insciption.pdb
+C:\Users\Joel-PC\Desktop\Projects\Formulaire d'insciption\Formulaire d'insciption\bin\Debug\Formulaire d'insciption.xml
+C:\Users\Joel-PC\Desktop\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\generateur_de_logiciel.Form1.resources
+C:\Users\Joel-PC\Desktop\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\generateur_de_logiciel.Resources.resources
+C:\Users\Joel-PC\Desktop\Projects\Formulaire d'insciption\Formulaire d'insciption\obj\x86\Debug\Formulaire d'insciption.vbproj.GenerateResource.Cache

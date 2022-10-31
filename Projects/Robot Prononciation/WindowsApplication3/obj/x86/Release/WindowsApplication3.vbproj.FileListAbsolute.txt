@@ -1,0 +1,12 @@
+C:\Users\Joel-PC\Desktop\Projects\Robot Prononciation\WindowsApplication3\bin\Release\WindowsApplication3.exe
+C:\Users\Joel-PC\Desktop\Projects\Robot Prononciation\WindowsApplication3\bin\Release\WindowsApplication3.pdb
+C:\Users\Joel-PC\Desktop\Projects\Robot Prononciation\WindowsApplication3\bin\Release\WindowsApplication3.xml
+C:\Users\Joel-PC\Desktop\Projects\Robot Prononciation\WindowsApplication3\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Joel-PC\Desktop\Projects\Robot Prononciation\WindowsApplication3\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Joel-PC\Desktop\Projects\Robot Prononciation\WindowsApplication3\obj\x86\Release\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\Desktop\Projects\Robot Prononciation\WindowsApplication3\obj\x86\Release\WindowsApplication3.exe
+C:\Users\Joel-PC\Desktop\Projects\Robot Prononciation\WindowsApplication3\obj\x86\Release\WindowsApplication3.xml
+C:\Users\Joel-PC\Desktop\Projects\Robot Prononciation\WindowsApplication3\obj\x86\Release\WindowsApplication3.pdb
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\WindowsApplication3.exe
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\WindowsApplication3.pdb
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\WindowsApplication3.xml

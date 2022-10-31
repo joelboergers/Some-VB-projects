@@ -1,0 +1,35 @@
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\WindowsApplication1.exe
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\WindowsApplication1.pdb
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\WindowsApplication1.xml
+C:\Users\Joel-PC\Desktop\Projects\Radio\WindowsApplication1\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Joel-PC\Desktop\Projects\Radio\WindowsApplication1\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Joel-PC\Desktop\Projects\Radio\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Joel-PC\Desktop\Projects\Radio\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Joel-PC\Desktop\Projects\Radio\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Joel-PC\Desktop\Projects\Radio\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\Desktop\Projects\Radio\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Users\Joel-PC\Desktop\Projects\Radio\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Users\Joel-PC\Desktop\Projects\Radio\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Release\Radio.exe.manifest
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Release\Radio.application
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Release\Radio.exe
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Release\Radio.pdb
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Release\Radio.xml
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Release\Interop.WMPLib.dll
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Release\Radio.Form1.resources
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Release\Radio.Resources.resources
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Release\Radio.exe.manifest
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Release\Radio.application
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Release\Radio.exe
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Release\Radio.xml
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Release\Radio.pdb
+C:\Users\Joel-PC\Desktop\Nouveau dossier\Radio.exe.manifest
+C:\Users\Joel-PC\Desktop\Nouveau dossier\Radio.application
+C:\Users\Joel-PC\Desktop\Nouveau dossier\Radio.exe
+C:\Users\Joel-PC\Desktop\Nouveau dossier\Radio.pdb
+C:\Users\Joel-PC\Desktop\Nouveau dossier\Radio.xml

@@ -1,0 +1,26 @@
+﻿Public Class Form1
+
+    Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
+        AffecterHeure
+
+    End Sub
+
+    Private Sub Timer1_Tick(sender As System.Object, e As System.EventArgs) Handles Timer1.Tick
+        AffecterHeure
+    End Sub
+
+    Sub AffecterHeure()
+        Dim second As String = Date.Now.Second
+        Dim minute As String = Date.Now.Minute
+
+        If second < 10 And second >= 0 Then
+            second = "0" & second
+        End If
+
+        If minute < 10 And minute >= 0 Then
+            minute = "0" & minute
+        End If
+
+        Label1.Text = Date.Now.Hour & " : " & Date.Now.Minute & " : " & Date.Now.Second
+    End Sub
+End Class

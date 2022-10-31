@@ -1,0 +1,10 @@
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\WindowsApplication1.exe
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\WindowsApplication1.pdb
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\WindowsApplication1.xml
+C:\Users\Joel-PC\Desktop\Projects\Horloge digital\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Joel-PC\Desktop\Projects\Horloge digital\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\Joel-PC\Desktop\Projects\Horloge digital\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Joel-PC\Desktop\Projects\Horloge digital\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\Desktop\Projects\Horloge digital\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Users\Joel-PC\Desktop\Projects\Horloge digital\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Users\Joel-PC\Desktop\Projects\Horloge digital\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb

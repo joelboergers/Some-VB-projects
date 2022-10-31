@@ -1,0 +1,42 @@
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Joel-PC\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Joel-PC\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Joel-PC\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Joel-PC\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Joel-PC\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Joel-PC\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Joel-PC\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Joel-PC\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Joel-PC\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Radio\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

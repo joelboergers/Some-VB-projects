@@ -1,0 +1,9 @@
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\labyrinte.exe
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\labyrinte.pdb
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\labyrinte.xml
+C:\Users\Joel-PC\Desktop\Projects\labyrinte\labyrinte\obj\x86\Release\labyrinte.Form1.resources
+C:\Users\Joel-PC\Desktop\Projects\labyrinte\labyrinte\obj\x86\Release\labyrinte.Resources.resources
+C:\Users\Joel-PC\Desktop\Projects\labyrinte\labyrinte\obj\x86\Release\labyrinte.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\Desktop\Projects\labyrinte\labyrinte\obj\x86\Release\labyrinte.exe
+C:\Users\Joel-PC\Desktop\Projects\labyrinte\labyrinte\obj\x86\Release\labyrinte.xml
+C:\Users\Joel-PC\Desktop\Projects\labyrinte\labyrinte\obj\x86\Release\labyrinte.pdb

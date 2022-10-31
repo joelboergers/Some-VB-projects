@@ -1,0 +1,16 @@
+Imports System.Net.Mail
+------------------------------------------------------------------------------
+
+Dim MyMailMessage As New MailMessage()
+Dim SMTPServer As New SmtpClient("smtp.gmail.com")
+
+MyMailMessage.From = New MailAddress("Adresse_Expediteur")
+MyMailMessage.To.Add("Adresse_Destinataire")
+MyMailMessage.Subject = ("Objet")
+MyMailMessage.Body = ("Message")
+
+SMTPServer.Port = ("587") 'Port
+SMTPServer.Credentials = New System.Net.NetworkCredential("Adresse_Expediteur", "Mot_de_passe_expediteur")
+SMTPServer.EnableSsl = True
+
+SMTPServer.Send(MyMailMessage) 'Envoi

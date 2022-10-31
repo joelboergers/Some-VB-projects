@@ -1,0 +1,9 @@
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\bin\Debug\Envoyer un mail.exe
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\bin\Debug\Envoyer un mail.pdb
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\bin\Debug\Envoyer un mail.xml
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Debug\Envoyer_un_mail.Form1.resources
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Debug\Envoyer_un_mail.Resources.resources
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Debug\Envoyer un mail.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Debug\Envoyer un mail.exe
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Debug\Envoyer un mail.xml
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Debug\Envoyer un mail.pdb

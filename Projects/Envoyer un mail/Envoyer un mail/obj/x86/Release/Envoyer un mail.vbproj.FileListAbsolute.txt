@@ -1,0 +1,12 @@
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Envoyer un mail.exe
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Envoyer un mail.pdb
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Envoyer un mail.xml
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Release\Envoyer_un_mail.Form1.resources
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Release\Envoyer_un_mail.Resources.resources
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Release\Envoyer un mail.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Release\Envoyer un mail.exe
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Release\Envoyer un mail.xml
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Envoyer un mail\obj\x86\Release\Envoyer un mail.pdb
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Envoyer un mail\Envoyer un mail\obj\x86\Release\Envoyer un mail.exe
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Envoyer un mail\Envoyer un mail\obj\x86\Release\Envoyer un mail.xml
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Envoyer un mail\Envoyer un mail\obj\x86\Release\Envoyer un mail.pdb

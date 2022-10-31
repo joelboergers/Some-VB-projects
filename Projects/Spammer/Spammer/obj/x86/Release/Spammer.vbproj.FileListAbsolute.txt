@@ -1,0 +1,9 @@
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\Spammer.exe
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\Spammer.pdb
+C:\Users\Joel-PC\Desktop\Projet fini visual basic\Spammer.xml
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Release\Spammer.Form1.resources
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Release\Spammer.Resources.resources
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Release\Spammer.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Release\Spammer.exe
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Release\Spammer.xml
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Release\Spammer.pdb

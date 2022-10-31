@@ -1,0 +1,21 @@
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Spammer\bin\Debug\Spammer.exe
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Spammer\bin\Debug\Spammer.pdb
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Spammer\bin\Debug\Spammer.xml
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Spammer\obj\x86\Debug\Spammer.Form1.resources
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Spammer\obj\x86\Debug\Spammer.Resources.resources
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Spammer\obj\x86\Debug\Spammer.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Spammer\obj\x86\Debug\Spammer.exe
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Spammer\obj\x86\Debug\Spammer.xml
+C:\Users\Joel-PC\AppData\Local\Temporary Projects\Spammer\obj\x86\Debug\Spammer.pdb
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Debug\Spammer.exe
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Debug\Spammer.xml
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Debug\Spammer.pdb
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\bin\Debug\Spammer.exe
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\bin\Debug\Spammer.pdb
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\bin\Debug\Spammer.xml
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Debug\Spammer.Form1.resources
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Debug\Spammer.Resources.resources
+C:\Users\Joel-PC\Documents\Visual Studio 2010\Projects\Spammer\Spammer\obj\x86\Debug\Spammer.vbproj.GenerateResource.Cache
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Spammer\Spammer\obj\x86\Debug\Spammer.exe
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Spammer\Spammer\obj\x86\Debug\Spammer.xml
+C:\Users\Joel-PC\Desktop\Visual basic\Projects\Spammer\Spammer\obj\x86\Debug\Spammer.pdb
